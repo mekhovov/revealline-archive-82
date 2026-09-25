@@ -1,0 +1,65 @@
+.github/workflows/deploy.yml
+  s_f005efd544dcd8::t_4539dfc895bc41 1-86
+tools/test_prepare.py
+  s_f005efd544dcd8::t_4539dfc895bc41 1-312
+index.html
+  s_f005efd544dcd8::t_4539dfc895bc41 1-22
+.gitignore
+  s_f005efd544dcd8::t_063435dd2b2785 1-2
+README.md
+  s_f005efd544dcd8::t_48b96a0cdb74c6 1-11
+authority/preserved-release-original.json
+  s_f005efd544dcd8::t_d7122663276c0b 1
+authority/preserved-source-commit-original.json
+  s_f005efd544dcd8::t_907baa6c0f4794 1
+authority/preserved-tag-original.json
+  s_f005efd544dcd8::t_709189c4b00c72 1
+authority/preserved-tag-ref-original.json
+  s_f005efd544dcd8::t_f896f1abf66433 1
+authority/reviewed-release-descriptors.json
+  s_f005efd544dcd8::t_a04bb8450edc7c 1-60
+expected-inventory.json
+  s_f005efd544dcd8::t_724df902924dd1 1-5750
+input-authority.json
+  s_f005efd544dcd8::t_7d681a895c4b04 1-101
+metadata/v0.114.1/distribution.zip.sha256
+  s_f005efd544dcd8::t_6bcd4aa029a75f 1
+metadata/v0.114.1/manifest.json
+  s_f005efd544dcd8::t_1ba1a43ba3c7e8 1-5714
+metadata/v0.114.1/release.json
+  s_f005efd544dcd8::t_54a37e99ef7738 1-10
+metadata/v0.114.1/source-qualification.json
+  s_f005efd544dcd8::t_aa31c1c18bf970 1-435
+metadata/v0.114.1/test-policy.json
+  s_f005efd544dcd8::t_1936842c6e684f 1-8
+releases/index.html
+  s_f005efd544dcd8::t_8ef1335fe8f448 1-16
+source-lock.json
+  s_f005efd544dcd8::t_734f99a192fef1 1-37
+tools/configure.py
+  s_f005efd544dcd8::t_dc778bd45f5e3f 1-148
+tools/prepare.py
+  s_f005efd544dcd8::t_02cc2570a91d78 1-93
+tools/qualification_v2.py
+  s_f005efd544dcd8::t_492d42ab3bf011 1-129
+tools/test_verify.py
+  s_f005efd544dcd8::t_81be8eee83ccd5 1-49
+tools/verify.py
+  s_f005efd544dcd8::t_60d69c2590f5a0 1-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0ce82174eee9feb13e15e2c7e738b0a860016ac2",
+  "prompts": {},
+  "sessions": {
+    "s_f005efd544dcd8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09328-21d8-7e93-9403-7e6793a4fac2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Oleksandr Mekhovov <oleksandr.mekhovov@coupa.com>"
+    }
+  }
+}
