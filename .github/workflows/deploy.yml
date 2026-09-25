@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: mekhovov/revealline
-          ref: b13089b702391c275f2505d1a76c87eebb9dcce0
+          ref: 902da32de72d5f2772f11d2a6575f334d56c7cb8
           fetch-depth: 1
           path: source
           persist-credentials: false
